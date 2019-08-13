@@ -1,0 +1,1350 @@
+
+ 
+记录时间：2017-06-07 14:58:31,606 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,134 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,764 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,766 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap-Report'
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,767 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,767 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,767 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,768 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,768 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,768 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,768 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,812 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,917 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,917 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,922 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,959 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,960 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,962 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-06-07 14:58:32,969 
+线程ID:[Worker #4c485db3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4c485db3' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,013 
+线程ID:[Worker #384e4f30] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #384e4f30' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,020 
+线程ID:[Worker #82db5b3b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #82db5b3b' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,054 
+线程ID:[Worker #c8634d7d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c8634d7d' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,078 
+线程ID:[Worker #e497641e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e497641e' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,109 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,113 
+线程ID:[Worker #30d8e80b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #30d8e80b' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,156 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,156 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,156 
+线程ID:[Worker #3ad62157] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3ad62157' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,207 
+线程ID:[Worker #814f73e5] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #814f73e5' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,225 
+线程ID:[Worker #97e19b0c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #97e19b0c' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,232 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,237 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,270 
+线程ID:[Worker #2e165d6b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2e165d6b' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,284 
+线程ID:[Worker #cc4700f2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #cc4700f2' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,307 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,308 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,308 
+线程ID:[Worker #3b917905] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3b917905' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,350 
+线程ID:[Worker #95e7a98e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #95e7a98e' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,365 
+线程ID:[Worker #d5377e4f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d5377e4f' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,367 
+线程ID:[Worker #4dccaaa8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4dccaaa8' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,366 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,372 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,396 
+线程ID:[Worker #244c3558] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #244c3558' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,406 
+线程ID:[Worker #edb2b674] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #edb2b674' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,415 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,415 
+线程ID:[Worker #9b6e3dc2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #9b6e3dc2' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,452 
+线程ID:[Worker #205e03e5] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #205e03e5' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,465 
+线程ID:[Worker #b765a800] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b765a800' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,477 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-06-07 14:58:33,478 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-06-07 14:59:04,755 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：SystemError property: [(null)] - 
+错误描述：SiteExceptionHandle
+ 
+System.Exception: 记录未找到JuCheap.Data.Entity.UserEntity：id=1704283572700034
+   在 JuCheap.Infrastructure.Extentions.DbContextExtention.Load[T](DbSet`1 dbset, String id) 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Infrastructure\Extentions\DbContextExtention.cs:行号 68
+   在 JuCheap.Services.AppServices.MenuService.GetMyMenus(String userId) 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Services\AppServices\MenuService.cs:行号 206
+   在 JuCheap.Web.Controllers.HomeController.Index() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Web\Controllers\HomeController.cs:行号 41
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+ 
+记录时间：2017-06-07 14:59:04,755 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：SystemError property: [(null)] - 
+错误描述：SiteExceptionHandle
+ 
+System.Exception: 记录未找到JuCheap.Data.Entity.UserEntity：id=1704283572700034
+   在 JuCheap.Infrastructure.Extentions.DbContextExtention.Load[T](DbSet`1 dbset, String id) 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Infrastructure\Extentions\DbContextExtention.cs:行号 68
+   在 JuCheap.Services.AppServices.MenuService.GetMyMenus(String userId) 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Services\AppServices\MenuService.cs:行号 206
+   在 JuCheap.Web.Controllers.HomeController.Index() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Web\Controllers\HomeController.cs:行号 41
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+ 
+记录时间：2017-06-07 15:04:25,525 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-06-07 15:04:25,608 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,031 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,033 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap-Report'
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,034 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,034 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,034 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,034 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,034 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,035 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,035 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,078 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,112 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,115 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,132 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,156 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,161 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,216 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,216 
+线程ID:[Worker #122f4570] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #122f4570' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,241 
+线程ID:[Worker #509c0cee] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #509c0cee' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,266 
+线程ID:[Worker #82679e01] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #82679e01' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,267 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,320 
+线程ID:[Worker #1e44893b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #1e44893b' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,329 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,329 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,344 
+线程ID:[Worker #30417299] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #30417299' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,396 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,396 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,396 
+线程ID:[Worker #ef429b51] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ef429b51' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,400 
+线程ID:[Worker #3c15cad3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3c15cad3' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,459 
+线程ID:[Worker #d9a5a27f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d9a5a27f' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,464 
+线程ID:[Worker #3469e3c7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3469e3c7' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,464 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,469 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,487 
+线程ID:[Worker #3d9d7326] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3d9d7326' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,548 
+线程ID:[Worker #52e4ab33] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #52e4ab33' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,552 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,552 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,612 
+线程ID:[Worker #f37ab579] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f37ab579' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,617 
+线程ID:[Worker #244319d9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #244319d9' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,619 
+线程ID:[Worker #f50e1dba] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f50e1dba' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,639 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,646 
+线程ID:[Worker #39cbd630] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #39cbd630' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,652 
+线程ID:[Worker #587ab342] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #587ab342' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,660 
+线程ID:[Worker #10a40f9d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #10a40f9d' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,677 
+线程ID:[Worker #ddd6c293] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ddd6c293' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,703 
+线程ID:[Worker #d76bf9de] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d76bf9de' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,737 
+线程ID:[Worker #4883bb1a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4883bb1a' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,749 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:26,751 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-06-07 15:04:28,128 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：SystemError property: [(null)] - 
+错误描述：SiteExceptionHandle
+ 
+System.Exception: 记录未找到JuCheap.Data.Entity.UserEntity：id=1704283572700034
+   在 JuCheap.Infrastructure.Extentions.DbContextExtention.Load[T](DbSet`1 dbset, String id) 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Infrastructure\Extentions\DbContextExtention.cs:行号 68
+   在 JuCheap.Services.AppServices.MenuService.GetMyMenus(String userId) 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Services\AppServices\MenuService.cs:行号 206
+   在 JuCheap.Web.Controllers.HomeController.Index() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Web\Controllers\HomeController.cs:行号 41
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+ 
+记录时间：2017-06-07 15:04:28,128 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：SystemError property: [(null)] - 
+错误描述：SiteExceptionHandle
+ 
+System.Exception: 记录未找到JuCheap.Data.Entity.UserEntity：id=1704283572700034
+   在 JuCheap.Infrastructure.Extentions.DbContextExtention.Load[T](DbSet`1 dbset, String id) 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Infrastructure\Extentions\DbContextExtention.cs:行号 68
+   在 JuCheap.Services.AppServices.MenuService.GetMyMenus(String userId) 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Services\AppServices\MenuService.cs:行号 206
+   在 JuCheap.Web.Controllers.HomeController.Index() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Web\Controllers\HomeController.cs:行号 41
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+ 
+记录时间：2017-06-07 15:08:54,131 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,209 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,541 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,543 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap-Report'
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,543 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,544 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,544 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,544 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,544 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,544 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,544 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,574 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,601 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,609 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,623 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,625 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,655 
+线程ID:[ServerWatchdog] 
+日志级别：  INFO  
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：1 servers were removed due to timeout
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,665 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,671 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,699 
+线程ID:[Worker #ce8d6e65] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ce8d6e65' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,706 
+线程ID:[Worker #279aa1cf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #279aa1cf' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,734 
+线程ID:[Worker #7ea1df2c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7ea1df2c' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,734 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,736 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,736 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,736 
+线程ID:[Worker #81e23d07] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #81e23d07' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,794 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,794 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,848 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,849 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,869 
+线程ID:[Worker #1357e43d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #1357e43d' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,904 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,905 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,906 
+线程ID:[Worker #da07e266] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #da07e266' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,925 
+线程ID:[Worker #00f4a444] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #00f4a444' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,935 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,938 
+线程ID:[Worker #139035cf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #139035cf' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,946 
+线程ID:[Worker #750a79e1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #750a79e1' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,954 
+线程ID:[Worker #5477ed39] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5477ed39' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,986 
+线程ID:[Worker #04425f4f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #04425f4f' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:54,995 
+线程ID:[Worker #02cf42f8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #02cf42f8' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,008 
+线程ID:[Worker #3b5aa9e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3b5aa9e9' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,012 
+线程ID:[Worker #860cbd70] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #860cbd70' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,065 
+线程ID:[Worker #b4c3d79e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b4c3d79e' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,081 
+线程ID:[Worker #ac54ad7e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ac54ad7e' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,109 
+线程ID:[Worker #eddeb0a8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eddeb0a8' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,123 
+线程ID:[Worker #e788c3e1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e788c3e1' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,132 
+线程ID:[Worker #688132ea] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #688132ea' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,141 
+线程ID:[Worker #7012e297] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7012e297' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,155 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-06-07 15:08:55,189 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-06-07 15:09:37,103 
+线程ID:[Worker #ce8d6e65] 
+日志级别：  ERROR 
+出错类：JuCheap.Infrastructure.Utilities.SmtpMailer property: [(null)] - 
+错误描述：发送邮件失败
+ 
+System.Net.Mail.SmtpException: 参数或变量中有语法错误。 服务器响应为:mail from address must be same as authorization user
+   在 System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   在 System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   在 System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 JuCheap.Infrastructure.Utilities.SmtpMailer.Send() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Infrastructure\Utilities\SMTPMail.cs:行号 83
+
+ 
+记录时间：2017-06-07 15:09:37,113 
+线程ID:[Worker #ce8d6e65] 
+日志级别：  ERROR 
+出错类：JuCheap.Services.TaskServices.ExportDayJobService property: [(null)] - 
+错误描述：邮件发送失败2017/6/7 15:09:37
+ 

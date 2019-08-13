@@ -1,0 +1,7332 @@
+
+ 
+记录时间：2017-09-20 14:35:33,180 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,415 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,649 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,655 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,657 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,657 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,657 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,657 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,658 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,658 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,658 
+线程ID:[1] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,675 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,689 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,689 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,690 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,691 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,691 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,692 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,693 
+线程ID:[Worker #6ebf715d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6ebf715d' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,693 
+线程ID:[Worker #e1803a2b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e1803a2b' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,701 
+线程ID:[Worker #58378d54] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #58378d54' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,706 
+线程ID:[Worker #e4877da2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e4877da2' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,708 
+线程ID:[Worker #1c008400] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #1c008400' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,710 
+线程ID:[Worker #b7d25ead] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b7d25ead' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,712 
+线程ID:[Worker #e123ff76] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e123ff76' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,714 
+线程ID:[Worker #fd94d6ee] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fd94d6ee' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,724 
+线程ID:[Worker #ee0bb21a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ee0bb21a' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,727 
+线程ID:[Worker #620b8a84] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #620b8a84' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,728 
+线程ID:[Worker #70a19e3c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #70a19e3c' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,729 
+线程ID:[Worker #c844c4b4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c844c4b4' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,731 
+线程ID:[Worker #bd1e1267] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bd1e1267' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,732 
+线程ID:[Worker #57eb4153] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #57eb4153' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,732 
+线程ID:[Worker #168efc0c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #168efc0c' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,733 
+线程ID:[Worker #3ee510b1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3ee510b1' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,733 
+线程ID:[Worker #461d3344] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #461d3344' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,734 
+线程ID:[Worker #92f6cbf4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #92f6cbf4' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,735 
+线程ID:[Worker #0fc9e6bf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0fc9e6bf' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,735 
+线程ID:[Worker #70c05a7a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #70c05a7a' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,735 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,736 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,795 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,795 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,808 
+线程ID:[ServerWatchdog] 
+日志级别：  INFO  
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：1 servers were removed due to timeout
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,878 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,932 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,932 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,963 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 14:35:33,963 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 14:35:34,078 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 14:35:34,078 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 14:35:34,099 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 14:36:02,297 
+线程ID:[Worker #b7d25ead] 
+日志级别：  ERROR 
+出错类：JuCheap.Infrastructure.Utilities.SmtpMailer property: [(null)] - 
+错误描述：发送邮件失败
+ 
+System.Net.Mail.SmtpException: 参数或变量中有语法错误。 服务器响应为:mail from address must be same as authorization user
+   在 System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   在 System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   在 System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 JuCheap.Infrastructure.Utilities.SmtpMailer.Send() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Infrastructure\Utilities\SMTPMail.cs:行号 84
+
+ 
+记录时间：2017-09-20 14:36:02,330 
+线程ID:[Worker #b7d25ead] 
+日志级别：  ERROR 
+出错类：JuCheap.Services.TaskServices.ExportDayJobService property: [(null)] - 
+错误描述：邮件发送失败2017/9/20 14:36:02
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,913 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,913 
+线程ID:[Worker #e1803a2b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e1803a2b' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,917 
+线程ID:[Worker #e1803a2b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e1803a2b' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,917 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,913 
+线程ID:[Worker #58378d54] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #58378d54' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,918 
+线程ID:[Worker #58378d54] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #58378d54' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,914 
+线程ID:[Worker #70c05a7a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #70c05a7a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,919 
+线程ID:[Worker #70c05a7a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #70c05a7a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,914 
+线程ID:[Worker #92f6cbf4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #92f6cbf4' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,919 
+线程ID:[Worker #92f6cbf4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #92f6cbf4' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,914 
+线程ID:[Worker #3ee510b1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3ee510b1' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,919 
+线程ID:[Worker #3ee510b1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3ee510b1' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,915 
+线程ID:[Worker #168efc0c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #168efc0c' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,915 
+线程ID:[Worker #70a19e3c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #70a19e3c' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,915 
+线程ID:[Worker #bd1e1267] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bd1e1267' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,920 
+线程ID:[Worker #168efc0c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #168efc0c' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,920 
+线程ID:[Worker #70a19e3c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #70a19e3c' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,915 
+线程ID:[Worker #ee0bb21a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ee0bb21a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,915 
+线程ID:[Worker #e123ff76] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e123ff76' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,920 
+线程ID:[Worker #e123ff76] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e123ff76' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,916 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,916 
+线程ID:[Worker #1c008400] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #1c008400' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,916 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,921 
+线程ID:[Worker #1c008400] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #1c008400' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,914 
+线程ID:[Worker #0fc9e6bf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0fc9e6bf' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,922 
+线程ID:[Worker #0fc9e6bf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0fc9e6bf' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,915 
+线程ID:[Worker #c844c4b4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c844c4b4' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,920 
+线程ID:[Worker #bd1e1267] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bd1e1267' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,916 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,920 
+线程ID:[Worker #ee0bb21a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ee0bb21a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,916 
+线程ID:[Worker #b7d25ead] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b7d25ead' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,923 
+线程ID:[Worker #b7d25ead] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b7d25ead' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,913 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,914 
+线程ID:[Worker #e4877da2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e4877da2' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,923 
+线程ID:[Worker #e4877da2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e4877da2' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,915 
+线程ID:[Worker #57eb4153] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #57eb4153' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,924 
+线程ID:[Worker #57eb4153] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #57eb4153' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,916 
+线程ID:[Worker #fd94d6ee] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fd94d6ee' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,924 
+线程ID:[Worker #fd94d6ee] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fd94d6ee' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,914 
+线程ID:[Worker #461d3344] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #461d3344' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,924 
+线程ID:[Worker #461d3344] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #461d3344' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,916 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:15,922 
+线程ID:[Worker #c844c4b4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c844c4b4' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:30,926 
+线程ID:[9] 
+日志级别：  WARN  
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Processing server takes too long to shutdown. Performing ungraceful shutdown.
+ 
+
+ 
+记录时间：2017-09-20 14:36:30,927 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,307 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,389 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,682 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,686 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,686 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,686 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,686 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,687 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,687 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,687 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,687 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,724 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,746 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,755 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,756 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,758 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,762 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,763 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,767 
+线程ID:[Worker #4109cb7f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4109cb7f' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,796 
+线程ID:[Worker #a8507c00] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a8507c00' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,807 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,809 
+线程ID:[Worker #c61efedf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c61efedf' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,819 
+线程ID:[Worker #e2288e90] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e2288e90' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,823 
+线程ID:[Worker #5b279f5d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5b279f5d' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,827 
+线程ID:[Worker #a33c5ace] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a33c5ace' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,829 
+线程ID:[Worker #c714adbe] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c714adbe' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,830 
+线程ID:[Worker #5ae415be] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5ae415be' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,837 
+线程ID:[Worker #e2d9785c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e2d9785c' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,840 
+线程ID:[Worker #c8645397] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c8645397' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,876 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,876 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,876 
+线程ID:[Worker #fc242e5c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc242e5c' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,884 
+线程ID:[Worker #f3cd8264] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f3cd8264' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,890 
+线程ID:[Worker #ab978881] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ab978881' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,927 
+线程ID:[Worker #3eacc2bb] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3eacc2bb' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,937 
+线程ID:[Worker #e70f311e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e70f311e' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,940 
+线程ID:[Worker #6f092073] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f092073' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,961 
+线程ID:[Worker #84d12f5a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #84d12f5a' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,987 
+线程ID:[Worker #6a9e86d0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6a9e86d0' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,991 
+线程ID:[Worker #8e8a1b0c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8e8a1b0c' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:35,994 
+线程ID:[Worker #fc3b53dd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc3b53dd' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,002 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,007 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,019 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,019 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,020 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,021 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,023 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,023 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 14:36:36,026 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 14:41:35,808 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:41:35,821 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,099 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,100 
+线程ID:[Worker #a8507c00] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a8507c00' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,105 
+线程ID:[Worker #a8507c00] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a8507c00' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,105 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,100 
+线程ID:[Worker #c61efedf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c61efedf' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,100 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,108 
+线程ID:[Worker #c61efedf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c61efedf' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,101 
+线程ID:[Worker #e70f311e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e70f311e' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,109 
+线程ID:[Worker #e70f311e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e70f311e' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,101 
+线程ID:[Worker #3eacc2bb] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3eacc2bb' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,109 
+线程ID:[Worker #3eacc2bb] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3eacc2bb' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,102 
+线程ID:[Worker #84d12f5a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #84d12f5a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,102 
+线程ID:[Worker #fc3b53dd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc3b53dd' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,110 
+线程ID:[Worker #fc3b53dd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc3b53dd' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,110 
+线程ID:[Worker #84d12f5a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #84d12f5a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,102 
+线程ID:[Worker #ab978881] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ab978881' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,102 
+线程ID:[Worker #fc242e5c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc242e5c' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,110 
+线程ID:[Worker #fc242e5c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc242e5c' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,103 
+线程ID:[Worker #c8645397] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c8645397' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,111 
+线程ID:[Worker #c8645397] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c8645397' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,103 
+线程ID:[Worker #4109cb7f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4109cb7f' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,111 
+线程ID:[Worker #4109cb7f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4109cb7f' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,103 
+线程ID:[Worker #5ae415be] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5ae415be' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,111 
+线程ID:[Worker #5ae415be] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5ae415be' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,103 
+线程ID:[Worker #a33c5ace] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a33c5ace' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,104 
+线程ID:[Worker #5b279f5d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5b279f5d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,112 
+线程ID:[Worker #5b279f5d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5b279f5d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,112 
+线程ID:[Worker #a33c5ace] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a33c5ace' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,104 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,104 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,101 
+线程ID:[Worker #8e8a1b0c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8e8a1b0c' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,113 
+线程ID:[Worker #8e8a1b0c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8e8a1b0c' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,102 
+线程ID:[Worker #6a9e86d0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6a9e86d0' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,113 
+线程ID:[Worker #6a9e86d0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6a9e86d0' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,103 
+线程ID:[Worker #e2d9785c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e2d9785c' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,113 
+线程ID:[Worker #e2d9785c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e2d9785c' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,104 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,101 
+线程ID:[Worker #6f092073] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f092073' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,114 
+线程ID:[Worker #6f092073] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f092073' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,103 
+线程ID:[Worker #c714adbe] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c714adbe' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,115 
+线程ID:[Worker #c714adbe] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c714adbe' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,110 
+线程ID:[Worker #ab978881] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ab978881' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,104 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,103 
+线程ID:[Worker #f3cd8264] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f3cd8264' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 14:43:30,116 
+线程ID:[Worker #f3cd8264] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f3cd8264' stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:43:45,098 
+线程ID:[35] 
+日志级别：  WARN  
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Processing server takes too long to shutdown. Performing ungraceful shutdown.
+ 
+
+ 
+记录时间：2017-09-20 14:43:45,099 
+线程ID:[35] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
+
+ 
+记录时间：2017-09-20 14:45:03,822 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 14:45:03,882 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 14:45:03,999 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,000 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,000 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,000 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,000 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,000 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,000 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,001 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,001 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,004 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,011 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,012 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,016 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,017 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,018 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,019 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,022 
+线程ID:[Worker #f8fdcb40] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f8fdcb40' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,026 
+线程ID:[Worker #d4d4341b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d4d4341b' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,029 
+线程ID:[Worker #eea8bb7d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eea8bb7d' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,031 
+线程ID:[Worker #4f24ddf3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4f24ddf3' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,033 
+线程ID:[Worker #5352e233] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5352e233' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,035 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,035 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,035 
+线程ID:[Worker #43a0bb1d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #43a0bb1d' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,036 
+线程ID:[Worker #48af2cd9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #48af2cd9' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,037 
+线程ID:[Worker #66aa846a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #66aa846a' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,044 
+线程ID:[Worker #63be2722] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #63be2722' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,046 
+线程ID:[Worker #2378480d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2378480d' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,050 
+线程ID:[Worker #d002382d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d002382d' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,052 
+线程ID:[Worker #5d59245e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5d59245e' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,053 
+线程ID:[Worker #89ba70b5] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #89ba70b5' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,054 
+线程ID:[Worker #362066b5] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #362066b5' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,055 
+线程ID:[Worker #10f0cea2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #10f0cea2' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,056 
+线程ID:[Worker #0b1f78d6] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0b1f78d6' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,056 
+线程ID:[Worker #2a55adfa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a55adfa' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,057 
+线程ID:[Worker #b1d5ef4d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b1d5ef4d' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,057 
+线程ID:[Worker #a6920c82] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a6920c82' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,058 
+线程ID:[Worker #ed27746a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ed27746a' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,058 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,059 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,066 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,070 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,070 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,084 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,084 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,096 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,096 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 14:45:04,098 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 14:50:04,061 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:50:04,099 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 14:55:04,094 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 14:55:04,126 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 15:00:04,122 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:00:04,159 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,847 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,847 
+线程ID:[Worker #ed27746a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ed27746a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,856 
+线程ID:[Worker #ed27746a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ed27746a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,848 
+线程ID:[Worker #4f24ddf3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4f24ddf3' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,856 
+线程ID:[Worker #4f24ddf3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4f24ddf3' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,848 
+线程ID:[Worker #2378480d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2378480d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,856 
+线程ID:[Worker #2378480d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2378480d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,848 
+线程ID:[Worker #10f0cea2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #10f0cea2' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,857 
+线程ID:[Worker #10f0cea2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #10f0cea2' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,849 
+线程ID:[Worker #b1d5ef4d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b1d5ef4d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,857 
+线程ID:[Worker #b1d5ef4d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b1d5ef4d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,849 
+线程ID:[Worker #63be2722] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #63be2722' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,857 
+线程ID:[Worker #63be2722] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #63be2722' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,849 
+线程ID:[Worker #a6920c82] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a6920c82' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,858 
+线程ID:[Worker #a6920c82] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a6920c82' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,850 
+线程ID:[Worker #43a0bb1d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #43a0bb1d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,858 
+线程ID:[Worker #43a0bb1d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #43a0bb1d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,850 
+线程ID:[Worker #eea8bb7d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eea8bb7d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,858 
+线程ID:[Worker #eea8bb7d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eea8bb7d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,850 
+线程ID:[Worker #362066b5] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #362066b5' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,858 
+线程ID:[Worker #362066b5] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #362066b5' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,851 
+线程ID:[Worker #89ba70b5] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #89ba70b5' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,851 
+线程ID:[Worker #d002382d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d002382d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,859 
+线程ID:[Worker #d002382d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d002382d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,851 
+线程ID:[Worker #48af2cd9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #48af2cd9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,859 
+线程ID:[Worker #48af2cd9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #48af2cd9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,852 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,852 
+线程ID:[Worker #5d59245e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5d59245e' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,854 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,854 
+线程ID:[Worker #d4d4341b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d4d4341b' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,860 
+线程ID:[Worker #5d59245e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5d59245e' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,854 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,860 
+线程ID:[Worker #d4d4341b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d4d4341b' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,847 
+线程ID:[Worker #f8fdcb40] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f8fdcb40' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,861 
+线程ID:[Worker #f8fdcb40] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f8fdcb40' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,850 
+线程ID:[Worker #2a55adfa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a55adfa' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,861 
+线程ID:[Worker #2a55adfa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a55adfa' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,859 
+线程ID:[Worker #89ba70b5] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #89ba70b5' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,851 
+线程ID:[Worker #5352e233] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5352e233' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,862 
+线程ID:[Worker #5352e233] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5352e233' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,852 
+线程ID:[Worker #66aa846a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #66aa846a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,862 
+线程ID:[Worker #66aa846a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #66aa846a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,854 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,855 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:03:34,862 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:38,919 
+线程ID:[Worker #0b1f78d6] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0b1f78d6' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:38,925 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:03:38,925 
+线程ID:[83] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,556 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,629 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,893 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,896 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,897 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,897 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,897 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,897 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,897 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,897 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,898 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,914 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,936 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,940 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,948 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,950 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,965 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,967 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:04:00,996 
+线程ID:[Worker #7ef97b0f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7ef97b0f' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,002 
+线程ID:[Worker #d74b6ec7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d74b6ec7' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,013 
+线程ID:[Worker #b4dfeccf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b4dfeccf' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,014 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,014 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,026 
+线程ID:[Worker #d26cfed1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d26cfed1' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,038 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,038 
+线程ID:[Worker #eb238249] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eb238249' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,049 
+线程ID:[Worker #2e547d8d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2e547d8d' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,061 
+线程ID:[Worker #d98e6736] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d98e6736' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,064 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,064 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,072 
+线程ID:[Worker #a51dc5c1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a51dc5c1' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,075 
+线程ID:[Worker #745adf62] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #745adf62' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,080 
+线程ID:[Worker #653e3940] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #653e3940' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,093 
+线程ID:[Worker #877d215b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #877d215b' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,136 
+线程ID:[Worker #e47c27cd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e47c27cd' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,143 
+线程ID:[Worker #917ecf15] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #917ecf15' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,144 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,144 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,147 
+线程ID:[Worker #5bb681b2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5bb681b2' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,153 
+线程ID:[Worker #d1124075] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d1124075' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,161 
+线程ID:[Worker #5954612a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5954612a' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,163 
+线程ID:[Worker #6a1aa94f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6a1aa94f' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,170 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,170 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,171 
+线程ID:[Worker #dee06c73] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #dee06c73' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,197 
+线程ID:[Worker #068c94be] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #068c94be' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,232 
+线程ID:[Worker #2a3db795] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a3db795' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,235 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,239 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:01,246 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,099 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,099 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,105 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,100 
+线程ID:[Worker #2a3db795] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a3db795' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,106 
+线程ID:[Worker #2a3db795] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a3db795' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,099 
+线程ID:[Worker #5bb681b2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5bb681b2' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,106 
+线程ID:[Worker #5bb681b2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5bb681b2' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,100 
+线程ID:[Worker #068c94be] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #068c94be' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,106 
+线程ID:[Worker #068c94be] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #068c94be' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,100 
+线程ID:[Worker #dee06c73] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #dee06c73' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,107 
+线程ID:[Worker #dee06c73] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #dee06c73' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,101 
+线程ID:[Worker #d98e6736] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d98e6736' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,107 
+线程ID:[Worker #d98e6736] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d98e6736' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,101 
+线程ID:[Worker #6a1aa94f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6a1aa94f' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,108 
+线程ID:[Worker #6a1aa94f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6a1aa94f' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,101 
+线程ID:[Worker #d1124075] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d1124075' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,108 
+线程ID:[Worker #d1124075] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d1124075' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,101 
+线程ID:[Worker #5954612a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5954612a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,108 
+线程ID:[Worker #5954612a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5954612a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,102 
+线程ID:[Worker #e47c27cd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e47c27cd' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,109 
+线程ID:[Worker #e47c27cd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e47c27cd' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,102 
+线程ID:[Worker #917ecf15] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #917ecf15' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,109 
+线程ID:[Worker #917ecf15] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #917ecf15' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,102 
+线程ID:[Worker #653e3940] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #653e3940' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,109 
+线程ID:[Worker #653e3940] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #653e3940' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,103 
+线程ID:[Worker #877d215b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #877d215b' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,110 
+线程ID:[Worker #877d215b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #877d215b' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,103 
+线程ID:[Worker #7ef97b0f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7ef97b0f' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,110 
+线程ID:[Worker #7ef97b0f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7ef97b0f' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,103 
+线程ID:[Worker #d74b6ec7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d74b6ec7' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,110 
+线程ID:[Worker #d74b6ec7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d74b6ec7' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,104 
+线程ID:[Worker #d26cfed1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d26cfed1' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,104 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,104 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,104 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,102 
+线程ID:[Worker #745adf62] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #745adf62' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,103 
+线程ID:[Worker #2e547d8d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2e547d8d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,112 
+线程ID:[Worker #2e547d8d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2e547d8d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,111 
+线程ID:[Worker #745adf62] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #745adf62' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,104 
+线程ID:[Worker #eb238249] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eb238249' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,104 
+线程ID:[Worker #b4dfeccf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b4dfeccf' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,112 
+线程ID:[Worker #b4dfeccf] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b4dfeccf' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,104 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,103 
+线程ID:[Worker #a51dc5c1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a51dc5c1' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,112 
+线程ID:[Worker #eb238249] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eb238249' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,113 
+线程ID:[Worker #a51dc5c1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a51dc5c1' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,111 
+线程ID:[Worker #d26cfed1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d26cfed1' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,116 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:04:59,117 
+线程ID:[82] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:14,898 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 15:05:14,946 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,064 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,066 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,067 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,067 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,067 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,067 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,067 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,067 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,068 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,076 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,089 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,095 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,104 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,106 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,115 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,116 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,120 
+线程ID:[Worker #6ceb6f6a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6ceb6f6a' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,125 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,125 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,135 
+线程ID:[Worker #43eaff62] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #43eaff62' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,143 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,145 
+线程ID:[Worker #b96eacbb] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b96eacbb' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,184 
+线程ID:[Worker #96ff5fae] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #96ff5fae' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,221 
+线程ID:[Worker #228f6690] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #228f6690' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,230 
+线程ID:[Worker #73ee4d01] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #73ee4d01' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,238 
+线程ID:[Worker #486f099f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #486f099f' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,258 
+线程ID:[Worker #2490dbbe] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2490dbbe' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,262 
+线程ID:[Worker #6d78fd1a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6d78fd1a' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,267 
+线程ID:[Worker #6f53c8f7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f53c8f7' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,273 
+线程ID:[Worker #58a03561] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #58a03561' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,274 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,274 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,276 
+线程ID:[Worker #5b286dd4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5b286dd4' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,279 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,279 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,280 
+线程ID:[Worker #2e4c1664] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2e4c1664' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,282 
+线程ID:[Worker #6f1dceae] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f1dceae' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,282 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,283 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,283 
+线程ID:[Worker #bea8a8e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bea8a8e9' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,285 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,286 
+线程ID:[Worker #da0d8517] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #da0d8517' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,287 
+线程ID:[Worker #59894e04] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #59894e04' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,288 
+线程ID:[Worker #ee9bfc9b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ee9bfc9b' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,292 
+线程ID:[Worker #0c46c3f9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c46c3f9' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,296 
+线程ID:[Worker #599fd0f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #599fd0f1' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,298 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:15,301 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,515 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,515 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,516 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,515 
+线程ID:[Worker #599fd0f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #599fd0f1' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,549 
+线程ID:[Worker #599fd0f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #599fd0f1' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,515 
+线程ID:[Worker #0c46c3f9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c46c3f9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,549 
+线程ID:[Worker #0c46c3f9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c46c3f9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,546 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,546 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,546 
+线程ID:[Worker #43eaff62] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #43eaff62' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,547 
+线程ID:[Worker #b96eacbb] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b96eacbb' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,550 
+线程ID:[Worker #b96eacbb] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b96eacbb' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,550 
+线程ID:[Worker #43eaff62] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #43eaff62' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,547 
+线程ID:[Worker #96ff5fae] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #96ff5fae' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,551 
+线程ID:[Worker #96ff5fae] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #96ff5fae' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,547 
+线程ID:[Worker #228f6690] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #228f6690' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,551 
+线程ID:[Worker #228f6690] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #228f6690' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,547 
+线程ID:[Worker #2490dbbe] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2490dbbe' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,547 
+线程ID:[Worker #486f099f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #486f099f' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,552 
+线程ID:[Worker #486f099f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #486f099f' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,551 
+线程ID:[Worker #2490dbbe] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2490dbbe' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,547 
+线程ID:[Worker #6f53c8f7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f53c8f7' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,552 
+线程ID:[Worker #6f53c8f7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f53c8f7' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,548 
+线程ID:[Worker #5b286dd4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5b286dd4' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,548 
+线程ID:[Worker #2e4c1664] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2e4c1664' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,552 
+线程ID:[Worker #2e4c1664] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2e4c1664' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,548 
+线程ID:[Worker #6f1dceae] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f1dceae' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,553 
+线程ID:[Worker #6f1dceae] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f1dceae' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,549 
+线程ID:[Worker #59894e04] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #59894e04' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,553 
+线程ID:[Worker #59894e04] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #59894e04' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,547 
+线程ID:[Worker #6ceb6f6a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6ceb6f6a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,553 
+线程ID:[Worker #6ceb6f6a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6ceb6f6a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,552 
+线程ID:[Worker #5b286dd4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5b286dd4' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,548 
+线程ID:[Worker #6d78fd1a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6d78fd1a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,549 
+线程ID:[Worker #ee9bfc9b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ee9bfc9b' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,546 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,554 
+线程ID:[Worker #6d78fd1a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6d78fd1a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,554 
+线程ID:[Worker #ee9bfc9b] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ee9bfc9b' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,548 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,548 
+线程ID:[Worker #da0d8517] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #da0d8517' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,555 
+线程ID:[Worker #da0d8517] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #da0d8517' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,547 
+线程ID:[Worker #73ee4d01] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #73ee4d01' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,555 
+线程ID:[Worker #73ee4d01] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #73ee4d01' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,548 
+线程ID:[Worker #58a03561] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #58a03561' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,556 
+线程ID:[Worker #58a03561] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #58a03561' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,548 
+线程ID:[Worker #bea8a8e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bea8a8e9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,556 
+线程ID:[Worker #bea8a8e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bea8a8e9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,558 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:22,558 
+线程ID:[35] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:05:27,986 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,026 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,271 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,273 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,274 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,274 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,274 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,275 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,275 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,276 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,276 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,300 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,320 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,323 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,328 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,330 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,347 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,349 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,356 
+线程ID:[Worker #3d470af9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3d470af9' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,360 
+线程ID:[Worker #39e866f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #39e866f1' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,363 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,363 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,365 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,398 
+线程ID:[Worker #038828c2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #038828c2' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,408 
+线程ID:[Worker #9a2b11e4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #9a2b11e4' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,439 
+线程ID:[Worker #c4abbd73] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c4abbd73' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,448 
+线程ID:[Worker #73b87ba0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #73b87ba0' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,481 
+线程ID:[Worker #b2a3ffad] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b2a3ffad' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,512 
+线程ID:[Worker #3fcfca63] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3fcfca63' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,529 
+线程ID:[Worker #044bf726] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #044bf726' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,552 
+线程ID:[Worker #c4a76a7a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c4a76a7a' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,561 
+线程ID:[Worker #bd87d22a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bd87d22a' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,565 
+线程ID:[Worker #d8a10806] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d8a10806' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,576 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,576 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,582 
+线程ID:[Worker #180597f0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #180597f0' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,615 
+线程ID:[Worker #8b20c5e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8b20c5e9' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,617 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,617 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,634 
+线程ID:[Worker #2ab36847] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2ab36847' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,656 
+线程ID:[Worker #6395ce4f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6395ce4f' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,657 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,657 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,663 
+线程ID:[Worker #5330a55d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5330a55d' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,668 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,690 
+线程ID:[Worker #2a8973fa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a8973fa' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,699 
+线程ID:[Worker #7b029ec3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7b029ec3' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,701 
+线程ID:[Worker #bf38c5a6] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bf38c5a6' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,707 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:05:28,715 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:06:15,493 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：SystemError property: [(null)] - 
+错误描述：SiteExceptionHandle
+ 
+SimpleInjector.ActivationException: No registration for type SystemUpdateJobService could be found and an implicit registration could not be made. The IEmailSubscribeService is registered as 'Execution Context Scope' lifestyle, but the instance is requested outside the context of a Execution Context Scope. ---> SimpleInjector.ActivationException: The IEmailSubscribeService is registered as 'Execution Context Scope' lifestyle, but the instance is requested outside the context of a Execution Context Scope.
+   在 SimpleInjector.Scope.GetScopelessInstance[TService,TImplementation](ScopedRegistration`2 registration)
+   在 SimpleInjector.Scope.GetInstance[TService,TImplementation](ScopedRegistration`2 registration, Scope scope)
+   在 SimpleInjector.Advanced.Internal.LazyScopedRegistration`2.GetInstance(Scope scope)
+   在 DynamicInstanceProducer61.GetInstance(Object[] constants)
+   在 SimpleInjector.Internals.CompilationHelpers.ConstantsClosure`1.GetInstance()
+   在 SimpleInjector.InstanceProducer.BuildAndReplaceInstanceCreatorAndCreateFirstInstance()
+   在 SimpleInjector.InstanceProducer.GetInstance()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SimpleInjector.InstanceProducer.GetInstance()
+   在 SimpleInjector.Container.GetInstanceForRootType(Type serviceType)
+   在 SimpleInjector.Container.GetInstance(Type serviceType)
+   在 Hangfire.SimpleInjector.SimpleInjectorJobActivator.ActivateJob(Type jobType)
+   在 JuCheap.Web.Controllers.HomeController.PushSystemUpdateEmail() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Web\Controllers\HomeController.cs:行号 188
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+ 
+记录时间：2017-09-20 15:06:15,493 
+线程ID:[29] 
+日志级别：  ERROR 
+出错类：SystemError property: [(null)] - 
+错误描述：SiteExceptionHandle
+ 
+SimpleInjector.ActivationException: No registration for type SystemUpdateJobService could be found and an implicit registration could not be made. The IEmailSubscribeService is registered as 'Execution Context Scope' lifestyle, but the instance is requested outside the context of a Execution Context Scope. ---> SimpleInjector.ActivationException: The IEmailSubscribeService is registered as 'Execution Context Scope' lifestyle, but the instance is requested outside the context of a Execution Context Scope.
+   在 SimpleInjector.Scope.GetScopelessInstance[TService,TImplementation](ScopedRegistration`2 registration)
+   在 SimpleInjector.Scope.GetInstance[TService,TImplementation](ScopedRegistration`2 registration, Scope scope)
+   在 SimpleInjector.Advanced.Internal.LazyScopedRegistration`2.GetInstance(Scope scope)
+   在 DynamicInstanceProducer61.GetInstance(Object[] constants)
+   在 SimpleInjector.Internals.CompilationHelpers.ConstantsClosure`1.GetInstance()
+   在 SimpleInjector.InstanceProducer.BuildAndReplaceInstanceCreatorAndCreateFirstInstance()
+   在 SimpleInjector.InstanceProducer.GetInstance()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 SimpleInjector.InstanceProducer.GetInstance()
+   在 SimpleInjector.Container.GetInstanceForRootType(Type serviceType)
+   在 SimpleInjector.Container.GetInstance(Type serviceType)
+   在 Hangfire.SimpleInjector.SimpleInjectorJobActivator.ActivateJob(Type jobType)
+   在 JuCheap.Web.Controllers.HomeController.PushSystemUpdateEmail() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Web\Controllers\HomeController.cs:行号 188
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+ 
+记录时间：2017-09-20 15:08:09,460 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[Worker #3d470af9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3d470af9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[Worker #5330a55d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5330a55d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,464 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,465 
+线程ID:[Worker #3d470af9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3d470af9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[Worker #bf38c5a6] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bf38c5a6' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,466 
+线程ID:[Worker #bf38c5a6] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bf38c5a6' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[Worker #6395ce4f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6395ce4f' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[Worker #2ab36847] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2ab36847' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,466 
+线程ID:[Worker #2ab36847] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2ab36847' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,466 
+线程ID:[Worker #6395ce4f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6395ce4f' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,462 
+线程ID:[Worker #180597f0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #180597f0' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,467 
+线程ID:[Worker #180597f0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #180597f0' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,462 
+线程ID:[Worker #044bf726] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #044bf726' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,467 
+线程ID:[Worker #044bf726] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #044bf726' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,463 
+线程ID:[Worker #9a2b11e4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #9a2b11e4' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,463 
+线程ID:[Worker #39e866f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #39e866f1' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,467 
+线程ID:[Worker #39e866f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #39e866f1' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,464 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[Worker #7b029ec3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7b029ec3' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,468 
+线程ID:[Worker #7b029ec3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7b029ec3' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,462 
+线程ID:[Worker #d8a10806] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d8a10806' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,468 
+线程ID:[Worker #d8a10806] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d8a10806' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,463 
+线程ID:[Worker #73b87ba0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #73b87ba0' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,468 
+线程ID:[Worker #73b87ba0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #73b87ba0' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,467 
+线程ID:[Worker #9a2b11e4] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #9a2b11e4' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[Worker #2a8973fa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a8973fa' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,465 
+线程ID:[Worker #5330a55d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5330a55d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,462 
+线程ID:[Worker #bd87d22a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bd87d22a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,469 
+线程ID:[Worker #bd87d22a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bd87d22a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,463 
+线程ID:[Worker #038828c2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #038828c2' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,464 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,461 
+线程ID:[Worker #c4a76a7a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c4a76a7a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,462 
+线程ID:[Worker #8b20c5e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8b20c5e9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,470 
+线程ID:[Worker #8b20c5e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8b20c5e9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,470 
+线程ID:[Worker #c4a76a7a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c4a76a7a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,463 
+线程ID:[Worker #b2a3ffad] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b2a3ffad' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,464 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,464 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,469 
+线程ID:[Worker #038828c2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #038828c2' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,462 
+线程ID:[Worker #3fcfca63] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3fcfca63' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,471 
+线程ID:[Worker #3fcfca63] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3fcfca63' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,469 
+线程ID:[Worker #2a8973fa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2a8973fa' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,463 
+线程ID:[Worker #c4abbd73] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c4abbd73' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,470 
+线程ID:[Worker #b2a3ffad] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b2a3ffad' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,471 
+线程ID:[Worker #c4abbd73] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c4abbd73' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,480 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:09,480 
+线程ID:[83] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:08:52,647 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 15:08:52,711 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 15:08:52,999 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,001 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,002 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,002 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,002 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,002 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,002 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,003 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,003 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,013 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,042 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,042 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,045 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,047 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,075 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,083 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,085 
+线程ID:[Worker #345532ca] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #345532ca' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,093 
+线程ID:[Worker #2de8d4a8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2de8d4a8' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,094 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,094 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,095 
+线程ID:[Worker #3f889354] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3f889354' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,099 
+线程ID:[Worker #0776cf9a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0776cf9a' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,102 
+线程ID:[Worker #3eb061d6] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3eb061d6' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,104 
+线程ID:[Worker #4af88126] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4af88126' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,107 
+线程ID:[Worker #b9d6be41] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b9d6be41' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,110 
+线程ID:[Worker #2596ce2d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2596ce2d' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,112 
+线程ID:[Worker #5028b617] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5028b617' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,121 
+线程ID:[Worker #c9d27232] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c9d27232' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,126 
+线程ID:[Worker #cd6632fd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #cd6632fd' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,127 
+线程ID:[Worker #4313c2f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4313c2f1' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,127 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,128 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,129 
+线程ID:[Worker #56955b55] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #56955b55' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,132 
+线程ID:[Worker #183bb229] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #183bb229' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,133 
+线程ID:[Worker #4fa23bcd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4fa23bcd' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,135 
+线程ID:[Worker #bb133537] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bb133537' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,137 
+线程ID:[Worker #46073c99] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #46073c99' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,138 
+线程ID:[Worker #33313b6f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #33313b6f' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,139 
+线程ID:[Worker #4b977ff9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4b977ff9' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,143 
+线程ID:[Worker #2c86f9f9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2c86f9f9' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,145 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,148 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,155 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,203 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,204 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,205 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,206 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 15:08:53,209 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 15:09:07,800 
+线程ID:[82] 
+日志级别：  ERROR 
+出错类：SystemError property: [(null)] - 
+错误描述：SiteExceptionHandle
+ 
+SimpleInjector.ActivationException: The SystemUpdateJobService is registered as 'Execution Context Scope' lifestyle, but the instance is requested outside the context of a Execution Context Scope.
+   在 SimpleInjector.Scope.GetScopelessInstance[TService,TImplementation](ScopedRegistration`2 registration)
+   在 SimpleInjector.Scope.GetInstance[TService,TImplementation](ScopedRegistration`2 registration, Scope scope)
+   在 SimpleInjector.Advanced.Internal.LazyScopedRegistration`2.GetInstance(Scope scope)
+   在 DynamicInstanceProducer55.GetInstance(Object[] constants)
+   在 SimpleInjector.Internals.CompilationHelpers.ConstantsClosure`1.GetInstance()
+   在 SimpleInjector.InstanceProducer.GetInstance()
+   在 SimpleInjector.Container.GetInstanceForRootType(Type serviceType)
+   在 SimpleInjector.Container.GetInstance(Type serviceType)
+   在 Hangfire.SimpleInjector.SimpleInjectorJobActivator.ActivateJob(Type jobType)
+   在 JuCheap.Web.Controllers.HomeController.PushSystemUpdateEmail() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Web\Controllers\HomeController.cs:行号 188
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+ 
+记录时间：2017-09-20 15:09:07,800 
+线程ID:[82] 
+日志级别：  ERROR 
+出错类：SystemError property: [(null)] - 
+错误描述：SiteExceptionHandle
+ 
+SimpleInjector.ActivationException: The SystemUpdateJobService is registered as 'Execution Context Scope' lifestyle, but the instance is requested outside the context of a Execution Context Scope.
+   在 SimpleInjector.Scope.GetScopelessInstance[TService,TImplementation](ScopedRegistration`2 registration)
+   在 SimpleInjector.Scope.GetInstance[TService,TImplementation](ScopedRegistration`2 registration, Scope scope)
+   在 SimpleInjector.Advanced.Internal.LazyScopedRegistration`2.GetInstance(Scope scope)
+   在 DynamicInstanceProducer55.GetInstance(Object[] constants)
+   在 SimpleInjector.Internals.CompilationHelpers.ConstantsClosure`1.GetInstance()
+   在 SimpleInjector.InstanceProducer.GetInstance()
+   在 SimpleInjector.Container.GetInstanceForRootType(Type serviceType)
+   在 SimpleInjector.Container.GetInstance(Type serviceType)
+   在 Hangfire.SimpleInjector.SimpleInjectorJobActivator.ActivateJob(Type jobType)
+   在 JuCheap.Web.Controllers.HomeController.PushSystemUpdateEmail() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Web\Controllers\HomeController.cs:行号 188
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<BeginInvokeSynchronousActionMethod>b__39(IAsyncResult asyncResult, ActionInvocation innerInvokeState)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`2.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3d()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass46.<InvokeActionMethodFilterAsynchronouslyRecursive>b__3f()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass33.<BeginInvokeActionMethodWithFilters>b__32(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+
+ 
+记录时间：2017-09-20 15:10:58,235 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,235 
+线程ID:[Worker #46073c99] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #46073c99' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,235 
+线程ID:[Worker #183bb229] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #183bb229' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,239 
+线程ID:[Worker #183bb229] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #183bb229' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,235 
+线程ID:[Worker #bb133537] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bb133537' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,235 
+线程ID:[Worker #0776cf9a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0776cf9a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,239 
+线程ID:[Worker #0776cf9a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0776cf9a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,239 
+线程ID:[Worker #bb133537] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #bb133537' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,236 
+线程ID:[Worker #4fa23bcd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4fa23bcd' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,240 
+线程ID:[Worker #4fa23bcd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4fa23bcd' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,236 
+线程ID:[Worker #cd6632fd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #cd6632fd' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,240 
+线程ID:[Worker #cd6632fd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #cd6632fd' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,237 
+线程ID:[Worker #2596ce2d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2596ce2d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,237 
+线程ID:[Worker #3eb061d6] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3eb061d6' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,237 
+线程ID:[Worker #5028b617] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5028b617' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,242 
+线程ID:[Worker #5028b617] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #5028b617' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,242 
+线程ID:[Worker #3eb061d6] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3eb061d6' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,237 
+线程ID:[Worker #345532ca] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #345532ca' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,243 
+线程ID:[Worker #345532ca] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #345532ca' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,238 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,235 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,239 
+线程ID:[Worker #46073c99] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #46073c99' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,243 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,236 
+线程ID:[Worker #2c86f9f9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2c86f9f9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,236 
+线程ID:[Worker #33313b6f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #33313b6f' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,244 
+线程ID:[Worker #33313b6f] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #33313b6f' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,244 
+线程ID:[Worker #2c86f9f9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2c86f9f9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,237 
+线程ID:[Worker #b9d6be41] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b9d6be41' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,237 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,240 
+线程ID:[Worker #2596ce2d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2596ce2d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,238 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,236 
+线程ID:[Worker #4313c2f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4313c2f1' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,245 
+线程ID:[Worker #4313c2f1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4313c2f1' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,236 
+线程ID:[Worker #2de8d4a8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2de8d4a8' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,245 
+线程ID:[Worker #2de8d4a8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #2de8d4a8' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,238 
+线程ID:[Worker #3f889354] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3f889354' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,235 
+线程ID:[Worker #56955b55] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #56955b55' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,246 
+线程ID:[Worker #56955b55] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #56955b55' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,246 
+线程ID:[Worker #3f889354] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #3f889354' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,237 
+线程ID:[Worker #4af88126] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4af88126' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,238 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,236 
+线程ID:[Worker #4b977ff9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4b977ff9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,246 
+线程ID:[Worker #4b977ff9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4b977ff9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,244 
+线程ID:[Worker #b9d6be41] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b9d6be41' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,236 
+线程ID:[Worker #c9d27232] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c9d27232' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,246 
+线程ID:[Worker #4af88126] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4af88126' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,247 
+线程ID:[Worker #c9d27232] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c9d27232' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,251 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:10:58,252 
+线程ID:[29] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:11:04,950 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,004 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,141 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,143 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,144 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,144 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,145 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,145 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,145 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,145 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,145 
+线程ID:[97] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,155 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,166 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,167 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,170 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,172 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,183 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,184 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,185 
+线程ID:[Worker #88785d19] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #88785d19' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,188 
+线程ID:[Worker #0c668cf0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c668cf0' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,199 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,199 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,202 
+线程ID:[Worker #dda243ad] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #dda243ad' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,208 
+线程ID:[Worker #cf35ec44] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #cf35ec44' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,211 
+线程ID:[Worker #8f5a1e5d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8f5a1e5d' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,213 
+线程ID:[Worker #0cbc9e34] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0cbc9e34' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,214 
+线程ID:[Worker #d6f8242c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d6f8242c' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,216 
+线程ID:[Worker #8e185e13] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8e185e13' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,217 
+线程ID:[Worker #204b74bd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #204b74bd' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,218 
+线程ID:[Worker #7eafe012] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7eafe012' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,222 
+线程ID:[Worker #c91d8355] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c91d8355' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,222 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,222 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,223 
+线程ID:[Worker #a529d785] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a529d785' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,224 
+线程ID:[Worker #7ca1e4e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7ca1e4e9' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,224 
+线程ID:[Worker #eb18dbaa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eb18dbaa' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,225 
+线程ID:[Worker #4f0d7f13] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4f0d7f13' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,226 
+线程ID:[Worker #b4f50068] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b4f50068' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,227 
+线程ID:[Worker #84e9a2a3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #84e9a2a3' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,227 
+线程ID:[Worker #8d25a136] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8d25a136' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,229 
+线程ID:[Worker #0f64a848] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0f64a848' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,231 
+线程ID:[Worker #b5566d72] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b5566d72' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,234 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,239 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,249 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,249 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,250 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,256 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,256 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 15:11:05,265 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 15:11:17,643 
+线程ID:[Worker #dda243ad] 
+日志级别：  ERROR 
+出错类：JuCheap.Infrastructure.Utilities.SmtpMailer property: [(null)] - 
+错误描述：发送邮件失败
+ 
+System.Net.Mail.SmtpException: 参数或变量中有语法错误。 服务器响应为:mail from address must be same as authorization user
+   在 System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   在 System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   在 System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 JuCheap.Infrastructure.Utilities.SmtpMailer.Send() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Infrastructure\Utilities\SMTPMail.cs:行号 84
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[Worker #88785d19] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #88785d19' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[Worker #b5566d72] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b5566d72' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[Worker #4f0d7f13] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4f0d7f13' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,043 
+线程ID:[Worker #4f0d7f13] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #4f0d7f13' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,043 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,043 
+线程ID:[Worker #b5566d72] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b5566d72' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,043 
+线程ID:[Worker #88785d19] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #88785d19' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[Worker #8d25a136] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8d25a136' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[Worker #8e185e13] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8e185e13' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #7ca1e4e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7ca1e4e9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,046 
+线程ID:[Worker #7ca1e4e9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7ca1e4e9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #84e9a2a3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #84e9a2a3' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #c91d8355] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c91d8355' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,046 
+线程ID:[Worker #c91d8355] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #c91d8355' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,046 
+线程ID:[Worker #84e9a2a3] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #84e9a2a3' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #8f5a1e5d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8f5a1e5d' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #0c668cf0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c668cf0' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,047 
+线程ID:[Worker #0c668cf0] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c668cf0' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,047 
+线程ID:[Worker #8f5a1e5d] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8f5a1e5d' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #cf35ec44] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #cf35ec44' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,048 
+线程ID:[Worker #cf35ec44] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #cf35ec44' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,042 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,042 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,042 
+线程ID:[Worker #eb18dbaa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eb18dbaa' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,049 
+线程ID:[Worker #eb18dbaa] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #eb18dbaa' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[Worker #b4f50068] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b4f50068' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,049 
+线程ID:[Worker #b4f50068] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b4f50068' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,046 
+线程ID:[Worker #8e185e13] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8e185e13' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #d6f8242c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d6f8242c' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,049 
+线程ID:[Worker #d6f8242c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #d6f8242c' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,042 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,040 
+线程ID:[Worker #0f64a848] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0f64a848' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,050 
+线程ID:[Worker #0f64a848] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0f64a848' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #7eafe012] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7eafe012' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #204b74bd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #204b74bd' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,051 
+线程ID:[Worker #204b74bd] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #204b74bd' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,050 
+线程ID:[Worker #7eafe012] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #7eafe012' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,042 
+线程ID:[Worker #dda243ad] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #dda243ad' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #0cbc9e34] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0cbc9e34' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,051 
+线程ID:[Worker #0cbc9e34] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0cbc9e34' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,051 
+线程ID:[Worker #dda243ad] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #dda243ad' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,041 
+线程ID:[Worker #a529d785] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a529d785' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,042 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,052 
+线程ID:[Worker #a529d785] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a529d785' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,046 
+线程ID:[Worker #8d25a136] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8d25a136' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,056 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:12:53,056 
+线程ID:[29] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:13:00,858 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Start installing Hangfire SQL objects...
+ 
+
+ 
+记录时间：2017-09-20 15:13:00,901 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.SqlServer.SqlServerStorage property: [(null)] - 
+错误描述：Hangfire SQL objects installed.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,106 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Starting Hangfire Server
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,108 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using job storage: 'SQL Server: localhost@JuCheap3-Job'
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,109 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for SQL Server job storage:
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,109 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Queue poll interval: 00:00:15.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,109 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Using the following options for Hangfire Server:
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,109 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Worker count: 20
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,109 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Listening queues: 'default'
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,109 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Shutdown timeout: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,109 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：    Schedule polling interval: 00:00:15
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,118 
+线程ID:[BackgroundProcessingServer] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Background process 'BackgroundProcessingServer' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,133 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,135 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,137 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,138 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'AggregatedCounter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,140 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,142 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Aggregating records in 'Counter' table...
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,146 
+线程ID:[Worker #96e003b7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #96e003b7' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,152 
+线程ID:[Worker #85a73e0a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #85a73e0a' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,154 
+线程ID:[Worker #67407ca1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #67407ca1' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,155 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'AggregatedCounter' table.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,155 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Job' table...
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,156 
+线程ID:[Worker #e2ba5f8e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #e2ba5f8e' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,159 
+线程ID:[Worker #b6d34548] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b6d34548' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,161 
+线程ID:[Worker #0c165a20] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c165a20' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,164 
+线程ID:[Worker #6f1837ce] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f1837ce' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,166 
+线程ID:[Worker #56eefd27] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #56eefd27' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,170 
+线程ID:[Worker #a840547e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a840547e' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,173 
+线程ID:[Worker #f021fe29] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f021fe29' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,175 
+线程ID:[Worker #8035249e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8035249e' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,178 
+线程ID:[Worker #6e6ab7b2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6e6ab7b2' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,178 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Records from the 'Counter' table aggregated.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,179 
+线程ID:[Worker #fc6edff9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc6edff9' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,183 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Job' table.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,183 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'List' table...
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,184 
+线程ID:[Worker #b5238d75] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b5238d75' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,186 
+线程ID:[Worker #b56fd905] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b56fd905' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,188 
+线程ID:[Worker #69e8ef2c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #69e8ef2c' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,190 
+线程ID:[Worker #6ffac729] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6ffac729' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,191 
+线程ID:[Worker #ad5cd139] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ad5cd139' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,193 
+线程ID:[Worker #ff3a56c8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ff3a56c8' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,195 
+线程ID:[Worker #ff84a222] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ff84a222' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,197 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,199 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'List' table.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,199 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Set' table...
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,201 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' started.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,215 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Set' table.
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,216 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Removing outdated records from the 'Hash' table...
+ 
+
+ 
+记录时间：2017-09-20 15:13:01,217 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Outdated records removed from the 'Hash' table.
+ 
+
+ 
+记录时间：2017-09-20 15:13:06,047 
+线程ID:[Worker #67407ca1] 
+日志级别：  ERROR 
+出错类：JuCheap.Infrastructure.Utilities.SmtpMailer property: [(null)] - 
+错误描述：发送邮件失败
+ 
+System.Net.Mail.SmtpException: 参数或变量中有语法错误。 服务器响应为:mail from address must be same as authorization user
+   在 System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   在 System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   在 System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 JuCheap.Infrastructure.Utilities.SmtpMailer.Send() 位置 F:\Work\Data\Personal\OL\JuCheap.3.0\JuCheap.Infrastructure\Utilities\SMTPMail.cs:行号 84
+
+ 
+记录时间：2017-09-20 15:15:15,008 
+线程ID:[DelayedJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.DelayedJobScheduler property: [(null)] - 
+错误描述：Background process 'DelayedJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,008 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,008 
+线程ID:[Worker #56eefd27] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #56eefd27' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,008 
+线程ID:[Worker #ff84a222] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ff84a222' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,012 
+线程ID:[Worker #ff84a222] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ff84a222' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,012 
+线程ID:[Worker #56eefd27] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #56eefd27' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,013 
+线程ID:[RecurringJobScheduler] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.RecurringJobScheduler property: [(null)] - 
+错误描述：Background process 'RecurringJobScheduler' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,012 
+线程ID:[Worker #67407ca1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #67407ca1' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,008 
+线程ID:[Worker #69e8ef2c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #69e8ef2c' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,015 
+线程ID:[Worker #69e8ef2c] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #69e8ef2c' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,008 
+线程ID:[Worker #6ffac729] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6ffac729' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,015 
+线程ID:[Worker #6ffac729] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6ffac729' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,008 
+线程ID:[Worker #ff3a56c8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ff3a56c8' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,016 
+线程ID:[Worker #ff3a56c8] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ff3a56c8' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,009 
+线程ID:[Worker #ad5cd139] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ad5cd139' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,016 
+线程ID:[Worker #ad5cd139] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #ad5cd139' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,009 
+线程ID:[Worker #b5238d75] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b5238d75' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,017 
+线程ID:[Worker #b5238d75] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b5238d75' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,009 
+线程ID:[Worker #6e6ab7b2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6e6ab7b2' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,009 
+线程ID:[Worker #a840547e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a840547e' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,017 
+线程ID:[Worker #a840547e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #a840547e' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,017 
+线程ID:[Worker #6e6ab7b2] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6e6ab7b2' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,010 
+线程ID:[Worker #8035249e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8035249e' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,017 
+线程ID:[Worker #8035249e] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #8035249e' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,010 
+线程ID:[Worker #96e003b7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #96e003b7' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,018 
+线程ID:[Worker #96e003b7] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #96e003b7' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,010 
+线程ID:[Worker #6f1837ce] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f1837ce' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,011 
+线程ID:[Worker #b6d34548] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b6d34548' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,018 
+线程ID:[Worker #b6d34548] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b6d34548' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,018 
+线程ID:[Worker #6f1837ce] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #6f1837ce' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,011 
+线程ID:[ServerHeartbeat] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerHeartbeat property: [(null)] - 
+错误描述：Background process 'ServerHeartbeat' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,011 
+线程ID:[Hangfire.SqlServer.CountersAggregator] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.CountersAggregator property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.CountersAggregator' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,011 
+线程ID:[ServerWatchdog] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.ServerWatchdog property: [(null)] - 
+错误描述：Background process 'ServerWatchdog' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,014 
+线程ID:[Worker #67407ca1] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #67407ca1' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,009 
+线程ID:[Worker #b56fd905] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b56fd905' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,019 
+线程ID:[Worker #b56fd905] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #b56fd905' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,009 
+线程ID:[Worker #85a73e0a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #85a73e0a' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,020 
+线程ID:[Worker #85a73e0a] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #85a73e0a' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,010 
+线程ID:[Worker #0c165a20] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c165a20' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,020 
+线程ID:[Worker #0c165a20] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #0c165a20' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,009 
+线程ID:[Worker #fc6edff9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc6edff9' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,020 
+线程ID:[Worker #fc6edff9] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #fc6edff9' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,011 
+线程ID:[Hangfire.SqlServer.ExpirationManager] 
+日志级别：  DEBUG 
+出错类：Hangfire.SqlServer.ExpirationManager property: [(null)] - 
+错误描述：Background process 'Hangfire.SqlServer.ExpirationManager' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,010 
+线程ID:[Worker #f021fe29] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f021fe29' was stopped due to a shutdown request.
+ 
+
+ 
+记录时间：2017-09-20 15:15:15,021 
+线程ID:[Worker #f021fe29] 
+日志级别：  DEBUG 
+出错类：Hangfire.Server.Worker property: [(null)] - 
+错误描述：Background process 'Worker #f021fe29' stopped.
+ 
+
+ 
+记录时间：2017-09-20 15:15:30,017 
+线程ID:[39] 
+日志级别：  WARN  
+出错类：Hangfire.Server.BackgroundProcessingServer property: [(null)] - 
+错误描述：Processing server takes too long to shutdown. Performing ungraceful shutdown.
+ 
+
+ 
+记录时间：2017-09-20 15:15:30,017 
+线程ID:[39] 
+日志级别：  INFO  
+出错类：Hangfire.BackgroundJobServer property: [(null)] - 
+错误描述：Hangfire Server stopped.
+ 
