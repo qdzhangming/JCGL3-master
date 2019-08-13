@@ -3,7 +3,7 @@
     /// <summary>
     /// 路径码实体
     /// </summary>
-    public class PathCodeEntity : BaseEntity
+    public class PathCodeEntity:BaseEntity 
     {
         /// <summary>
         /// 路径码
